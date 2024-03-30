@@ -8,4 +8,5 @@ Step:
 
 Data collection: 
 - https://www.literotica.com/
+- https://www.nifty.org/
 - 
